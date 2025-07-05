@@ -1,0 +1,53 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: "Assets/Scenes/\u5F00\u59CB\u754C\u9762.unity"
+    guid: 16715c5ce2a659f4eaeb4ef87bf9295e
+  - enabled: 1
+    path: "Assets/Scenes/\u5173\u5361/\u7B2C\u4E00\u5927\u5173/1-1.unity"
+    guid: 31c635b574b9622489a1b3980cf54571
+  - enabled: 1
+    path: "Assets/Scenes/\u5173\u5361/\u7B2C\u4E00\u5927\u5173/1-2.unity"
+    guid: 85042b9094fa1f9428131bb85ea764de
+  - enabled: 1
+    path: "Assets/Scenes/\u5173\u5361/\u7B2C\u4E00\u5927\u5173/1-3.unity"
+    guid: cf2539eeaaafd984e8eb25da2b68e5b1
+  - enabled: 1
+    path: "Assets/Scenes/\u5173\u5361/\u7B2C\u4E00\u5927\u5173/1-4.unity"
+    guid: 74283a9e55176384cb71006cc5034500
+  - enabled: 1
+    path: "Assets/Scenes/\u5173\u5361/\u7B2C\u4E00\u5927\u5173/1-5.unity"
+    guid: ae07fb395ac792249ba4e666669dd508
+  - enabled: 1
+    path: "Assets/Scenes/\u5173\u5361/\u7B2C\u4E00\u5927\u5173/1-6.unity"
+    guid: aa8508b25fa9a894ba95000b438077f8
+  - enabled: 1
+    path: "Assets/Scenes/\u5173\u5361/\u7B2C\u4E00\u5927\u5173/1-7.unity"
+    guid: 294da4c5b4dfd3646a69e63cd3bdad92
+  - enabled: 1
+    path: "Assets/Scenes/\u5173\u5361/\u7B2C\u4E8C\u5927\u5173/2-1.unity"
+    guid: 559af86ace16788428929f543f14d151
+  - enabled: 1
+    path: "Assets/Scenes/\u5173\u5361/\u7B2C\u4E8C\u5927\u5173/2-2.unity"
+    guid: 5a5b3d26547112c4686366c46f6e1418
+  - enabled: 1
+    path: "Assets/Scenes/\u5173\u5361/\u7B2C\u4E8C\u5927\u5173/2-3.unity"
+    guid: 74a23329348c772428e22a4ec6a72eb7
+  - enabled: 1
+    path: "Assets/Scenes/\u5173\u5361/\u7B2C\u4E8C\u5927\u5173/2-4.unity"
+    guid: 3d4c65b0c945bb24da9c41aba30349ff
+  - enabled: 1
+    path: "Assets/Scenes/\u5173\u5361/\u7B2C\u4E8C\u5927\u5173/2-5.unity"
+    guid: 7af4a2cf2974ddc4eaf3a80bf84f9541
+  - enabled: 1
+    path: "Assets/Scenes/\u8FC7\u573A\u52A8\u753B.unity"
+    guid: 88d667c7c0e2603499f57ab9c0b916f2
+  - enabled: 1
+    path: "Assets/Scenes/\u7ED3\u675F\u573A\u666F.unity"
+    guid: bf38cbebc05b2114bb799ed85eee8727
+  m_configObjects: {}
